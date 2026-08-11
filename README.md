@@ -16,11 +16,13 @@ An automated, smart Personnel Attendance Control System built with C# Windows Fo
 * **Hardware Integration:** System.IO.Ports (Serial Port communication)
 * **Hardware:** Arduino Uno & RC522 RFID Module
 
-## 📸 Screenshots
-*(Buraya programının çalışan halinden 1-2 tane ekran görüntüsü eklemelisin. GitHub'da Issues veya README düzenleme ekranına fotoğrafı sürükleyip bırakarak linkini buraya yapıştırabilirsin.)*
 
 ## ⚙️ Setup & Installation
 1. Download the latest release from the [Releases](../../releases) tab.
 2. Extract the ZIP file.
 3. Run `personel_takip_sefa_can_celik.exe` (The SQLite `.db` file and required `.dll` files must remain in the same folder).
 4. Select your Arduino's COM Port from the dashboard and click "Connect".
+
+
+## ⚠️WARNING! THIS DOCUMENTATION WAS WRITTEN BY AI. IT MY CONTAIN MISLEADING INFORMATION!
+
