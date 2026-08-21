@@ -24,5 +24,5 @@ An automated, smart Personnel Attendance Control System built with C# Windows Fo
 4. Select your Arduino's COM Port from the dashboard and click "Connect".
 
 
-## ⚠️WARNING! THIS DOCUMENTATION WAS WRITTEN BY AI. IT MY CONTAIN MISLEADING INFORMATION!
+## ⚠️WARNING! THIS DOCUMENTATION WAS WRITTEN BY AI. IT MAY CONTAIN MISLEADING INFORMATION!
 
